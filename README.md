@@ -34,6 +34,10 @@ go build -o gosnake.exe
 
 ## How it works
 
-The snake moves around a 30x20 grid eating food to grow longer. Game speeds up every 50 points. Don't hit the walls or yourself.
+The snake moves around a 30x20 grid eating food to grow longer. Game speeds up every 50 points. Don't hit the walls or yourself
 
-The game ticks every 150ms initially, getting faster as you score. Direction changes are buffered to prevent reversing into yourself between ticks.
+The game ticks every 150ms initially, getting faster as you score. Direction changes are buffered to prevent reversing into yourself between ticks
+
+## License
+
+[MIT](LICENSE) © [YourPOVV](https://github.com/yourpovv)
