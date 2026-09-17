@@ -1,6 +1,12 @@
+<div align="center">
+  
 # GoSnake
 
-Terminal snake game built with Go, Bubbletea and Lipgloss.
+**Terminal snake game built with Go, Bubbletea and Lipgloss.**
+
+https://github.com/user-attachments/assets/26910b70-7c5d-4c22-bbfa-f19bc4ea7357
+
+</div>
 
 ## Requirements
 
