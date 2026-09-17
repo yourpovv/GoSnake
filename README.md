@@ -4,7 +4,7 @@
 
 **Terminal snake game built with Go, Bubbletea and Lipgloss.**
 
-[![GitHub](https://img.shields.io/github/stars/yourpovv/GOOB?style=social)](https://github.com/yourpovv/GOOB)
+[![GitHub](https://img.shields.io/github/stars/yourpovv/GoSnake?style=social)](https://github.com/yourpovv/GoSnake)
 
 https://github.com/user-attachments/assets/26910b70-7c5d-4c22-bbfa-f19bc4ea7357
 
